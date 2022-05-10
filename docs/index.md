@@ -1,3 +1,5 @@
+# GitHub Pages eksempel
+
 ## Med markdown
 
 **Last ned et markdown redigeringsprogram som f.eks. [Marktext](https://github.com/marktext/marktext)**
@@ -25,6 +27,12 @@ _Brukelig ressurs til markdown skriving --> [Markdown Cheat Sheet](https://www.m
 **Åpne `_config.yml` i et tekstredigeringsprogram som f.eks [Visual Studio Code](https://code.visualstudio.com/) og legg i hva du skal ha som f.eks tittel, beskrivelse og tema**
 
 ![](images\2022-05-09-11-17-01-image.png)
+
+## Med HTML
+
+**Lag en vanlig side med html, css osv.**
+
+## Sette siden på GitHub Pages
 
 **Gå inn på GitHub og lag et nytt repository**
 
