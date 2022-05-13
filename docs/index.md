@@ -2,9 +2,11 @@
 
 ## Med markdown
 
-**Last ned et markdown redigeringsprogram som f.eks. [Marktext](https://github.com/marktext/marktext)**
+**Last ned et markdown redigeringsprogram som f.eks. [Marktext](https://github.com/marktext/marktext) eller [Yank Note](https://github.com/purocean/yn)**
 
-_Brukelige innstillinger og funksjoner i marktext --> [marktext.md](marktext.md)_
+_Brukelige innstillinger og funksjoner_
+- _[marktext.md](marktext.md)_
+- _[yanknote.md](yanknote.md)_
 
 **Lag en mappe med med innholdet under**
 
@@ -75,3 +77,4 @@ _Brukelig ressurs til markdown skriving --> [Markdown Cheat Sheet](https://www.m
 **Gå inn på siden** _Må kanskje vente et par minutter_
 
 ![](images\2022-05-09-11-42-46-image.png)
+
