@@ -32,13 +32,14 @@ _Brukelig ressurs til markdown skriving --> [Markdown Cheat Sheet](https://www.m
 
 ## Med HTML
 
-**Lag en vanlig side med html, css osv.**
+**Lag en vanlig side med html, css osv. Du kan f.eks. bruke [Visual Studio Code](https://code.visualstudio.com/) eller [Adobe Dreamweaver](https://www.adobe.com/no/products/dreamweaver.html).**
+_Husk å bruk index.html_
 
 ## Sette siden på GitHub Pages
 
 **Gå inn på GitHub og lag et nytt repository**
 
-*Hvis du skriver inn f.eks test_side blir url-en `https://{Brukernavn}.github.io/test_side`*
+*Hvis du skriver inn f.eks test_side blir url-en `https://<brukernavn>.github.io/test_side`*
 
 *Det er også mulig å skrive inn f.eks url-en over*
 
@@ -77,4 +78,36 @@ _Brukelig ressurs til markdown skriving --> [Markdown Cheat Sheet](https://www.m
 **Gå inn på siden** _Må kanskje vente et par minutter_
 
 ![](images\2022-05-09-11-42-46-image.png)
+
+## Redigere tema
+
+**Når du skal redigere temaet burde du først åpne GitHub siden til temaet (eller hvor det ligger)**
+
+![Img](./images/de996f32.png)
+_[Leap Day](https://github.com/mattgraham/leapday)_
+
+**Lag en mappe med samme navn som der det du vil redigere ligger**
+
+![Img](./images/a7975899.png)
+
+**Hvis du f.eks. vil endre en farge, skule noe eller sette inn et bakgrunnsbilde, Kan du lage en under mappe som heter `css` og legge til f.eks. `style.scss`** (skal være scss)
+
+**Start `<filnavn>.scss` med**
+
+```scss
+---
+---
+
+@import "jekyll-theme-leap-day"; /* Tema navn */
+```
+
+**Fortsett filen med hva du vil endre**
+_Bruk siden til temaet for å se hvordan html malene er settet opp_
+_Anbefaler at du bruker [Firefox](https://www.mozilla.org/nb-NO/firefox/new/) (eller en annen nettleser) for å se endringer uten å måtte vente flere minutter på at GitHub Pages oppdaterer seg._
+
+**Ikke redigert:**
+![Img](./images/ffbf1d2b.png)
+
+**Redigert:**
+![Img](./images/b3a4a1eb.png)
 
